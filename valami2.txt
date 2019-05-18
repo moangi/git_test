@@ -1,1 +1,2 @@
 Elso pull
+reset test 
